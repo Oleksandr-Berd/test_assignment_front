@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  font-family: "Nunito";
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+.logo {
+  width: 26px;
+  height: 26px;
+  margin-right: 7px;
+}
+
+.logoText {
+  font-size: 16px;
+  line-height: 1.63;
+  font-weight: 400;
+  margin-right: 14px;
+  text-transform: uppercase;
+}
+
+

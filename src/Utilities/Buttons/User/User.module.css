@@ -1,0 +1,17 @@
+.userBtn {
+  font-size: 16px;
+  line-height: 1.63;
+  font-weight: 400;
+  margin-right: 10px;
+  background-color: #f4e041;
+  border-radius: 80px;
+  border: 0;
+  padding: 4px 29px;
+  transition: background-color 200ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+
+.userBtn:hover{
+    background: #FFE302;
+    transition: background-color 200ms cubic-bezier(0.075, 0.82, 0.165, 1);
+}
