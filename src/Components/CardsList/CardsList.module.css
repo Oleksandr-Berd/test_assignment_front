@@ -3,6 +3,7 @@
     background: #F8F8F8;
     list-style-type: none;
     padding: 140px 16px;
+    margin-bottom: 0;
 }
 
 .cardListTitle{
@@ -10,4 +11,3 @@
 font-weight: 400;
 font-family: "Nunito";
 line-height: 1;}
-

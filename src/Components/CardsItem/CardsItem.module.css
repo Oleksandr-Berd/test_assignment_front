@@ -1,0 +1,36 @@
+.cardsItem{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.cardsItem:not(:last-child){
+    margin-bottom: 20px; 
+}
+
+.cardsItem > *:not(:last-child){
+    margin-bottom: 20px;
+     margin-top: 0;
+}
+
+.avatar{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.address>*{
+    font-family: "Nunito";
+    font-style: normal;
+    line-height: 1.63;
+    font-size: 16px;
+ text-decoration: none;
+    color: #000;
+    display: block;
+    margin: 0;
+}
+

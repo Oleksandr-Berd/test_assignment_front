@@ -4,7 +4,8 @@ import css from "./GetReq.module.css"
 const GetReq = () => {
     return ( 
         <section className={css.getReq}>
-            <CardsList/>
+            <CardsList />
+           
         </section>
      );
 }

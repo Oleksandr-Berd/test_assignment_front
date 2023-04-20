@@ -3,7 +3,7 @@ import css from "./SignUp.module.css"
 const SignUp = () => {
     return (
       <>
-        <button className={css.signUpBtn}>Sign Up</button>
+        <button type="submit" className={css.signUpBtn}>Sign Up</button>
       </>
     );
 }
